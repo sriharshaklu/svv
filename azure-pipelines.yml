@@ -19,4 +19,4 @@ steps:
     script: |
       javac AddTwoNumbers.java
       
-      java AddTwonumbers
+      java AddTwoNumbers
